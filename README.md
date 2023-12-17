@@ -7,5 +7,5 @@
   <IMG SRC="https://cultofthepartyparrot.com/flags/hd/franceparrot.gif">
   <IMG SRC="https://cultofthepartyparrot.com/parrots/hd/kindasusparrot.gif">
 </div>
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/1UfrAu7VuqlPb4wbRC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/digitalducks-digital-ducks-duck-nft-1UfrAu7VuqlPb4wbRC">via GIPHY</a></p>
+<IMG SRC = "https://media2.giphy.com/media/1UfrAu7VuqlPb4wbRC/giphy.gif?cid=ecf05e47c1wjuoeqg85gm5utrewl747m8a6tf4l2oui06t50&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </p>
