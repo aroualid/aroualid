@@ -7,5 +7,8 @@
   <IMG SRC="https://cultofthepartyparrot.com/flags/hd/franceparrot.gif">
   <IMG SRC="https://cultofthepartyparrot.com/parrots/hd/kindasusparrot.gif">
 </div>
-<IMG SRC = "https://media2.giphy.com/media/1UfrAu7VuqlPb4wbRC/giphy.gif?cid=ecf05e47c1wjuoeqg85gm5utrewl747m8a6tf4l2oui06t50&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
+<div align="center">
+  <IMG SRC = "https://media2.giphy.com/media/1UfrAu7VuqlPb4wbRC/giphy.gif?cid=ecf05e47c1wjuoeqg85gm5utrewl747m8a6tf4l2oui06t50&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+</div>
 </p>
