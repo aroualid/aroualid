@@ -2,11 +2,10 @@
 <h3 align="center">A passionate developer from Paris</h3>
 
 <div class="gallery">
-  <IMG SRC="https://cultofthepartyparrot.com/parrots/hd/hackerparrot.gif">
-  <IMG SRC="https://cultofthepartyparrot.com/parrots/hd/soccerparrot.gif">
-  <IMG SRC="https://cultofthepartyparrot.com/flags/hd/franceparrot.gif">
-  <IMG SRC="https://cultofthepartyparrot.com/parrots/hd/kindasusparrot.gif">
+  <IMG SRC="https://cultofthepartyparrot.com/parrots/hd/hackerparrot.gif"  align="center">>
+  <IMG SRC="https://cultofthepartyparrot.com/parrots/hd/soccerparrot.gif"  align="center">>
+  <IMG SRC="https://cultofthepartyparrot.com/flags/hd/franceparrot.gif"  align="center">>
+  <IMG SRC="https://cultofthepartyparrot.com/parrots/hd/kindasusparrot.gif"  align="center">>
 </div>
 <p align="center">
-<div align="center">
 </p>
