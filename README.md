@@ -7,5 +7,5 @@
   <IMG SRC="https://cultofthepartyparrot.com/flags/hd/franceparrot.gif">
   <IMG SRC="https://cultofthepartyparrot.com/parrots/hd/kindasusparrot.gif">
 </div>
-<p align="left">
+<p align="center">
 </p>
