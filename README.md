@@ -16,3 +16,4 @@
   <IMG SRC = "https://media2.giphy.com/media/1UfrAu7VuqlPb4wbRC/giphy.gif?cid=ecf05e47c1wjuoeqg85gm5utrewl747m8a6tf4l2oui06t50&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </div>
 </p>
+[![aroualid's 42 stats](https://badge.mediaplus.ma/darkblue/aroualid?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/aroualid)
