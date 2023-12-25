@@ -3,8 +3,10 @@
 <h1 align="center">Hi 👋, I'm Ari</h1>
 <h3 align="center">A passionate developer from Paris</h3>
 <div align = "center">
-   <a href="https://profile.intra.42.fr/users/aroualid" target="_blank">
-   <img src="https://badge.mediaplus.ma/darkblue/aroualid?1337Badge=off&UM6P=off" alt="aroualid's 42 stats" />
+   <a href="https://profile.intra.42.fr/users/aroualid" onclick="window.open(this.href); return false;">
+  <img src="https://badge.mediaplus.ma/darkblue/aroualid?1337Badge=off&UM6P=off" alt="aroualid's 42 stats" />
+</a>
+
 </a>
 </div>
 <p align="left">
