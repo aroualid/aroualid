@@ -1,10 +1,7 @@
-markdown_extensions:
-  - attr_list
 <body style="background-color:rgb(0,0,0);">
 <h1 align="center">Hi 👋, I'm Ari</h1>
 <h3 align="center">A passionate developer from Paris</h3>
 <div align = "center">
-   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/aroualid?1337Badge=off&UM6P=off" alt="aroualid's 42 stats" /><target="_blank" /a>
    <a href="https://profile.intra.42.fr/users/aroualid" target="_blank"><img src="https://badge.mediaplus.ma/darkblue/aroualid?1337Badge=off&UM6P=off" alt="aroualid's 42 stats" /></a>
 </div>
 <p align="left">
