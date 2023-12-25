@@ -1,5 +1,4 @@
-<body style="background-color:rgb(0,0,0);">
-<h1 align="center">Hi 👋, I'm Ari</h1>
+<h3 align="center">Hi 👋, I'm Ari</h3>
 <h3 align="center">A passionate developer from Paris</h3>
 <div align = "center">
    <a href="https://profile.intra.42.fr/users/aroualid"><img src="https://badge.mediaplus.ma/darkblue/aroualid?1337Badge=off&UM6P=off" alt="aroualid's 42 stats" /></a>
