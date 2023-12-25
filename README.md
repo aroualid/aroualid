@@ -3,7 +3,6 @@
 <h3 align="center">A passionate developer from Paris</h3>
 <div align = "center">
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/aroualid?1337Badge=off&UM6P=off" alt="aroualid's 42 stats" /></a>
-  [![Score](https://42-project-badge.glitch.me/users/aroualid/project/libft)](https://github.com/ricardoreves/42-project-badge)
 </div>
 <p align="left">
 <div align="center" class="gallery">
