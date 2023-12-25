@@ -1,3 +1,4 @@
+[![aroualid's 42 stats](https://badge.mediaplus.ma/darkblue/aroualid?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 <body style="background-color:rgb(0,0,0);">
 <h1 align="center">Hi 👋, I'm Ari</h1>
 <h3 align="center">A passionate developer from Paris</h3>
@@ -17,3 +18,4 @@
 </div>
 </p>
 [![aroualid's 42 stats](https://badge.mediaplus.ma/darkblue/aroualid?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/aroualid)
+[![aroualid's 42 stats](https://badge.mediaplus.ma/darkblue/aroualid?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
