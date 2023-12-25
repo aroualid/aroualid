@@ -1,10 +1,11 @@
 <body style="background-color:rgb(0,0,0);">
 <h1 align="center">Hi 👋, I'm Ari</h1>
 <h3 align="center">A passionate developer from Paris</h3>
-<p align="left">
 <div align = "center">
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/aroualid?1337Badge=off&UM6P=off" alt="aroualid's 42 stats" /></a>
 </div>
+<p align="left">
+[![Score](https://42-project-badge.glitch.me/users/aroualid/project/libft)](https://github.com/ricardoreves/42-project-badge)
 <div align="center" class="gallery">
   <IMG SRC="https://cultofthepartyparrot.com/parrots/hd/hackerparrot.gif">
   <IMG SRC="https://cultofthepartyparrot.com/parrots/hd/soccerparrot.gif">
