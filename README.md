@@ -1,3 +1,5 @@
+markdown_extensions:
+  - attr_list
 <body style="background-color:rgb(0,0,0);">
 <h1 align="center">Hi 👋, I'm Ari</h1>
 <h3 align="center">A passionate developer from Paris</h3>
