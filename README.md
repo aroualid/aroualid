@@ -14,8 +14,8 @@
 <h3 align="center">  🚧 WORK IN PROGRESS 🚧 </h3>
    <div>
       <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/VLC_Icon.svg" title="plot" width="110"></a> 
-      <a href="https://github.com/aoualid/ft_printf"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linee.png" title="get_next_line" length="125" width="125"></a> 
-      <a href="https://github.com/aoualid/ft_printf"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/born2beroote.png" title="born2beroot" length="125" width="125"></a> 
+      <a href="https://github.com/aoualid/get_next_line"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linee.png" title="get_next_line" length="125" width="125"></a> 
+      <a href="https://github.com/aoualid/Born2beroot"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/born2beroote.png" title="born2beroot" length="125" width="125"></a> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/VLC_Icon.svg" title="plot" width="110"></a> 
 
    </div>
