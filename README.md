@@ -1,11 +1,12 @@
 <h3 align="center">Hi 👋, I'm Ari</h3>
-<div align="center" class="gallery">
-  <IMG SRC="https://cultofthepartyparrot.com/parrots/hd/hackerparrot.gif"  length="75" width="75">
-  <IMG SRC="https://cultofthepartyparrot.com/parrots/hd/soccerparrot.gif" length="75" width="75">
-  <IMG SRC="https://cultofthepartyparrot.com/flags/hd/franceparrot.gif" length="75" width="75">
-  <IMG SRC="https://cultofthepartyparrot.com/parrots/hd/kindasusparrot.gif" length="75" width="75">
-</div>
 <h3 align="center">A passionate developer from Paris</h3>
+<div align="center" class="gallery">
+  <IMG SRC="https://cultofthepartyparrot.com/parrots/hd/hackerparrot.gif"  length="100" width="100">
+  <IMG SRC="https://cultofthepartyparrot.com/parrots/hd/soccerparrot.gif" length="100" width="100">
+  <IMG SRC="https://cultofthepartyparrot.com/flags/hd/franceparrot.gif" length="100" width="100">
+  <IMG SRC="https://cultofthepartyparrot.com/parrots/hd/kindasusparrot.gif" length="100" width="100">
+</div>
+
 
 
 <div align = "center" wrap= wrap; >
