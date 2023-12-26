@@ -5,6 +5,8 @@
    <a href="https://github.com/aoualid/libft"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftn.png"  title="libft: 100/100" length="150" width="150"></a> 
    <a href="https://github.com/aoualid/ft_printf"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png" title="ft_printf: 100/100" length="150" width="150"></a> 
 </div>
+
+
 <p align="left">
 <div align="center" class="gallery">
   <IMG SRC="https://cultofthepartyparrot.com/parrots/hd/hackerparrot.gif">
