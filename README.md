@@ -1,14 +1,14 @@
 <h3 align="center">Hi 👋, I'm Ari</h3>
 <h3 align="center">A passionate developer from Paris</h3>
 
+
 <div align = "center" wrap= wrap; >
-   <a href="https://profile.intra.42.fr/users/aroualid"><img src="https://badge.mediaplus.ma/darkblue/aroualid?1337Badge=off&UM6P=off" alt="aroualid's 42 stats" /></a>
    <div>
       <a href="https://github.com/aoualid/libft"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftn.png"  title="libft: 100/100" length="125" width="125"></a> 
       <a href="https://github.com/aoualid/ft_printf"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png" title="ft_printf: 100/100" length="125" width="125"></a> 
    </div>
+      <a href="https://profile.intra.42.fr/users/aroualid"><img src="https://badge.mediaplus.ma/darkblue/aroualid?1337Badge=off&UM6P=off" alt="aroualid's 42 stats" /></a>
 </div>
-
 
 
 <p align="left">
