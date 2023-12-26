@@ -3,13 +3,24 @@
 
 
 <div align = "center" wrap= wrap; >
+    <a href="https://profile.intra.42.fr/users/aroualid"><img src="https://badge.mediaplus.ma/darkblue/aroualid?1337Badge=off&UM6P=off" alt="aroualid's 42 stats" /></a>
    <div>
-      <a href="https://github.com/aoualid/libft"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftn.png"  title="libft: 100/100" length="125" width="125"></a> 
-      <a href="https://github.com/aoualid/ft_printf"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png" title="ft_printf: 100/100" length="125" width="125"></a> 
+      <a href="https://github.com/aoualid/libft"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftn.png"  title="libft" length="125" width="125"></a> 
+      <a href="https://github.com/aoualid/ft_printf"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png" title="ft_printf" length="125" width="125"></a> 
    </div>
-      <a href="https://profile.intra.42.fr/users/aroualid"><img src="https://badge.mediaplus.ma/darkblue/aroualid?1337Badge=off&UM6P=off" alt="aroualid's 42 stats" /></a>
-</div>
+<h3>                 </h3>
+<h3>                 </h3>
+<h3>                 </h3>
+<h3 align="center">  🚧 WORK IN PROGRESS 🚧 </h3>
+   <div>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/VLC_Icon.svg" title="plot" width="110"></a> 
+      <a href="https://github.com/aoualid/ft_printf"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linee.png" title="get_next_line" length="125" width="125"></a> 
+      <a href="https://github.com/aoualid/ft_printf"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/born2beroote.png" title="born2beroot" length="125" width="125"></a> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/VLC_Icon.svg" title="plot" width="110"></a> 
 
+   </div>
+</div>
+<h1> </h1>
 
 <p align="left">
 <div align="center" class="gallery">
