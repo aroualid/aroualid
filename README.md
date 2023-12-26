@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Paris</h3>
 <div align = "center">
    <a href="https://profile.intra.42.fr/users/aroualid"><img src="https://badge.mediaplus.ma/darkblue/aroualid?1337Badge=off&UM6P=off" alt="aroualid's 42 stats" /></a>
-   <a href="https://github.com/aroualid/libft"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftn.png"  title="libft: 100/100" length="150" width="150"></a> 
+   <a href="https://github.com/aoualid/libft"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftn.png"  title="libft: 100/100" length="150" width="150"></a> 
    <a href="https://github.com/aroualid/ft_printf"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png" title="ft_printf: 100/100" length="150" width="150"></a> 
 </div>
 <p align="left">
