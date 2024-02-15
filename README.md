@@ -28,5 +28,5 @@
 <div align="center">
   <IMG SRC = "https://media2.giphy.com/media/1UfrAu7VuqlPb4wbRC/giphy.gif?cid=ecf05e47c1wjuoeqg85gm5utrewl747m8a6tf4l2oui06t50&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </div>
-![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
+![OG-CQ767_201905_8SR_20190509154426](https://github.com/pasqualerossi/pasqualerossi/assets/58959408/762db6ff-57ad-49ef-ac37-77a1c742da6b)
 </p>
