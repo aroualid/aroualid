@@ -28,5 +28,5 @@
 <div align="center">
   <IMG SRC = "https://media2.giphy.com/media/1UfrAu7VuqlPb4wbRC/giphy.gif?cid=ecf05e47c1wjuoeqg85gm5utrewl747m8a6tf4l2oui06t50&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </div>
-![github-user-contribution](https://github.com/aroualid/test/blob/main/github-user-contribution.svg)
+![github-user-contribution](https://github.com/aroualid/aroualid/blob/main/github-user-contribution.svg)
 </p>
