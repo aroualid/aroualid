@@ -16,7 +16,8 @@
 <h3>                 </h3>
 <h3 align="center">  🚧 WORK IN PROGRESS 🚧 </h3>
    <div display = "flex">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/VLC_Icon.svg" title="plot" width="110"></a> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/VLC_Icon.svg" title="plot" width="110"></a>
+      <a href="https://github.com/aroualid/pipex"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/pipexe.png" title="push_swap" length="125" width="125"></a> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/VLC_Icon.svg" title="plot" width="110"></a> 
 
    </div>
