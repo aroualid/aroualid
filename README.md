@@ -1,4 +1,4 @@
-q<h3 align="center">Hi 👋, I'm Ari</h3>
+<h3 align="center">Hi 👋, I'm Ari</h3>
 <h3 align="center">A passionate developer from Paris</h3>
 <div align="center" class="gallery">
   <IMG SRC="https://cultofthepartyparrot.com/parrots/hd/hackerparrot.gif"  length="100" width="100">
@@ -17,7 +17,6 @@ q<h3 align="center">Hi 👋, I'm Ari</h3>
 <h3 align="center">  🚧 WORK IN PROGRESS 🚧 </h3>
    <div display = "flex">
       <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/VLC_Icon.svg" title="plot" width="110"></a> 
-      
       <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/VLC_Icon.svg" title="plot" width="110"></a> 
 
    </div>
