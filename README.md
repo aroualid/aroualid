@@ -17,7 +17,6 @@
 <h3 align="center">  🚧 WORK IN PROGRESS 🚧 </h3>
    <div display = "flex">
       <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/VLC_Icon.svg" title="plot" width="110"></a>
-
       <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/VLC_Icon.svg" title="plot" width="110"></a> 
 
    </div>
