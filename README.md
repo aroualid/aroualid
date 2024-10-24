@@ -19,6 +19,9 @@
 <h3 align="center">  🚧 WORK IN PROGRESS 🚧 </h3>
    <div display = "flex">
       <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/VLC_Icon.svg" title="plot" width="110"></a>
+      <a href="https://github.com/aroualid/"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/netpracticen.png"  title="netpractice" length="125" width="125"></a>
+      <a href="https://github.com/aroualid/"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dn.png"  title="cub3d" length="125" width="125"></a> 
+      <a href="https://github.com/aroualid/"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppn.png"  title="cpp" length="125" width="125"></a> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/VLC_Icon.svg" title="plot" width="110"></a> 
 
    </div>
