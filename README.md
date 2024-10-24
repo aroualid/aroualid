@@ -4,7 +4,6 @@
   <IMG SRC="https://cultofthepartyparrot.com/parrots/hd/hackerparrot.gif"  length="100" width="100">
   <IMG SRC="https://cultofthepartyparrot.com/parrots/hd/soccerparrot.gif" length="100" width="100">
   <IMG SRC="https://cultofthepartyparrot.com/flags/hd/franceparrot.gif" length="100" width="100">
-  <IMG SRC="https://cultofthepartyparrot.com/parrots/hd/kindasusparrot.gif" length="100" width="100">
 </div>
 <div align = "center" wrap= wrap; >
 
