@@ -21,7 +21,7 @@
 ## 🛡️ Mes Badges & Certifications
 
 <div align="center">
-  <a href="https://www.badgeforge.eu/" target="_blank"><img src="https://www.badgeforge.eu/badges/9fd5e1796585701410bfec08c513409b16a005bf9e051b12c53cf4029e3d27ca.jpg" height="100" alt="Badge Forge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://fr.osint4fun.eu/advent2025" target="_blank"><img src="https://www.badgeforge.eu/badges/9fd5e1796585701410bfec08c513409b16a005bf9e051b12c53cf4029e3d27ca.jpg" height="100" alt="Badge Forge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.google.com/about/careers/applications/buildyourfuture/events/init.g-cybersecurityworkshopforstudents?ohl=default&hl=en_US" target="_blank"><img src="https://www.gstatic.com/marketing-cms/assets/images/e3/d0/8ba7436446319cafa5c32d852f73/init-g-logo.webp=n-w2560-h256-fcrop64=1,50310000afbeffff-rw" height="100" alt="Logo init.g Cybersecurity" /></a>
 </div>
 
