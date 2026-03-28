@@ -1,5 +1,5 @@
 <h1 align="center">
-  <strong>Hey, I'm Ari 👋 — Dev Student - CTF Player - OSINT Investigator </strong>
+  <strong>Hey, I'm Ari 👋 — Dev - CTF Player - OSINT Investigator </strong>
 </h1>
 
 <h3 align="center"> 💻 Languages </h3>
