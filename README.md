@@ -1,34 +1,33 @@
-<h1 align="center">
-  Hi, I'm Ari 👋
-</h1>  
-<div align="center">
-  <img src= "https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="100" alt="stats graph"  />
-  <img src= "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="100" alt="stats graph"  />
-  
-  <img src= "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="100" alt="stats graph"  />
-
-</div>
+<h1 align="center">Hi, I'm Ari 👋</h1>
 
 <div align="center">
-  <img src= "https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" height="100" alt="stats graph"  />
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="100" alt="stats graph"  />
-  <img src= "https://upload.wikimedia.org/wikipedia/commons/c/c6/Font_Awesome_5_brands_github-square.svg" height="100" alt="stats graph"  />
-  <img src= "https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg?uselang=fr" height="100" alt="stats graph"  />
-  <img src= "https://github.com/kovidgoyal/kitty/blob/master/logo/kitty.svg" height="100" alt="stats graph"  />
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="100" alt="Logo C" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://isocpp.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="100" alt="Logo C++" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="100" alt="Logo Python" /></a>
 </div>
 
+<br>
+
+<div align="center">
+  <a href="https://neovim.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" height="100" alt="Logo Neovim" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="100" alt="Logo Docker" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Font_Awesome_5_brands_github-square.svg" height="100" alt="Logo GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" height="100" alt="Logo Git" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://sw.kovidgoyal.net/kitty/" target="_blank"><img src="https://raw.githubusercontent.com/kovidgoyal/kitty/master/logo/kitty.svg" height="100" alt="Logo Kitty Terminal" /></a>
+</div>
+
+<br>
 
 ## 🛡️ Mes Badges & Certifications
 
 <div align="center">
-  <img src= "https://www.badgeforge.eu/badges/9fd5e1796585701410bfec08c513409b16a005bf9e051b12c53cf4029e3d27ca.jpg" height="100" alt="stats graph"  />
-  <img src= "https://www.gstatic.com/marketing-cms/assets/images/e3/d0/8ba7436446319cafa5c32d852f73/init-g-logo.webp=n-w2560-h256-fcrop64=1,50310000afbeffff-rw" height="100" alt="stats graph"  />
+  <a href="https://www.badgeforge.eu/" target="_blank"><img src="https://www.badgeforge.eu/badges/9fd5e1796585701410bfec08c513409b16a005bf9e051b12c53cf4029e3d27ca.jpg" height="100" alt="Badge Forge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.google.com/about/careers/applications/buildyourfuture/events/init.g-cybersecurityworkshopforstudents?ohl=default&hl=en_US" target="_blank"><img src="https://www.gstatic.com/marketing-cms/assets/images/e3/d0/8ba7436446319cafa5c32d852f73/init-g-logo.webp=n-w2560-h256-fcrop64=1,50310000afbeffff-rw" height="100" alt="Logo init.g Cybersecurity" /></a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats-five-sigma-90.vercel.app/api?username=aroualid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&custom_title=%F0%9F%93%96%20Github%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-five-sigma-90.vercel.app/api/top-langs?username=aroualid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&custom_title=%E2%9C%A8%20Language%20Stats" height="150" alt="languages graph"  />
+  <a href="https://github.com/aroualid" target="_blank"><img src="https://github-readme-stats-five-sigma-90.vercel.app/api?username=aroualid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&custom_title=%F0%9F%93%96%20Github%20Stats" height="150" alt="Statistiques globales GitHub de aroualid" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/aroualid" target="_blank"><img src="https://github-readme-stats-five-sigma-90.vercel.app/api/top-langs?username=aroualid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&custom_title=%E2%9C%A8%20Language%20Stats" height="150" alt="Langages les plus utilisés par aroualid" /></a>
 </div>
-
