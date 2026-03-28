@@ -1,12 +1,5 @@
-# Salut, je suis [Ton Prénom ou Pseudo] 👋
+# Hi, I'm Ari 👋
 
-Bienvenue sur mon profil ! Je suis un(e) développeur(se) passionné(e) par la création de logiciels performants et l'automatisation. J'aime descendre dans les bas niveaux avec le C/C++ tout en créant des scripts et des outils efficaces en Python.
-
-## 🛠️ Ma Stack Technique
-
-Voici les langages et outils que je maîtrise et que j'utilise régulièrement :
-
-**Langages de programmation :**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -22,16 +15,7 @@ Voici les langages et outils que je maîtrise et que j'utilise régulièrement :
 
 ---
 
-## 🚀 À propos de moi
-
-* 🔭 **Je travaille actuellement sur :** [Nom de ton projet actuel ou "des projets personnels autour du C++"]
-* 🌱 **Je suis en train d'apprendre :** [Quelque chose de nouveau, ex: l'orchestration avancée avec Kubernetes]
-* 💬 **Posez-moi des questions sur :** le C, le C++, Python ou la conteneurisation avec Docker.
-* 📫 **Comment me joindre :** [Ton adresse email] | [Ton profil LinkedIn]
-* ⚡ **Fait amusant :** [Ajoute une petite anecdote sur toi, par exemple sur ta manière de coder ou un hobby]
-
-## 📊 Mes Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_NOM_D_UTILISATEUR&show_icons=true&theme=radium" alt="Statistiques GitHub de TON_NOM_D_UTILISATEUR" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-five-sigma-90.vercel.app/api?username=aroualid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&custom_title=%F0%9F%93%96%20Github%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-five-sigma-90.vercel.app/api/top-langs?username=aroualid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&custom_title=%E2%9C%A8%20Language%20Stats" height="150" alt="languages graph"  />
+</div>
