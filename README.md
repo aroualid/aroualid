@@ -1,7 +1,6 @@
 <h1 align="center">
   <strong>Hey, I'm Ari 👋 — Dev Student - CTF Player - OSINT Investigator </strong>
 </h1>
-<br>
 
 
 <h2 align="center"> 🛠️ My Tech Stack </h2>
