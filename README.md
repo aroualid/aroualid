@@ -2,9 +2,6 @@
   <strong>Hey, I'm Ari 👋 — Dev Student - CTF Player - OSINT Investigator </strong>
 </h1>
 
-
-<h2 align="center"> 🛠️ My Tech Stack </h2>
-
 <h3 align="center"> 💻 Languages </h3>
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="60" alt="C Logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
